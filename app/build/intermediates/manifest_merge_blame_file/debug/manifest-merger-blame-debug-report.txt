@@ -1,0 +1,160 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.yasmin.solace_application"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] /home/student/.gradle/caches/transforms-3/9baae2a0a064870b9506522ab355f7bf/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+12        android:name="com.yasmin.solace_application.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] /home/student/.gradle/caches/transforms-3/9baae2a0a064870b9506522ab355f7bf/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] /home/student/.gradle/caches/transforms-3/9baae2a0a064870b9506522ab355f7bf/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.yasmin.solace_application.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] /home/student/.gradle/caches/transforms-3/9baae2a0a064870b9506522ab355f7bf/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] /home/student/.gradle/caches/transforms-3/9baae2a0a064870b9506522ab355f7bf/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:5:5-64:19
+18        android:allowBackup="true"
+18-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] /home/student/.gradle/caches/transforms-3/9baae2a0a064870b9506522ab355f7bf/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:7:9-65
+21        android:debuggable="true"
+22        android:fullBackupContent="@xml/backup_rules"
+22-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:8:9-54
+23        android:icon="@mipmap/ic_launcher"
+23-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:9:9-43
+24        android:label="@string/app_name"
+24-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:10:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:11:9-54
+26        android:supportsRtl="true"
+26-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:12:9-35
+27        android:theme="@style/Theme.SolaceApplication" >
+27-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:13:9-55
+28        <activity
+28-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:15:9-21:20
+29            android:name="com.yasmin.solace_application.ui.SignUpActivity"
+29-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:16:13-46
+30            android:exported="false" >
+30-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:17:13-37
+31            <meta-data
+31-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:18:13-20:36
+32                android:name="android.app.lib_name"
+32-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:19:17-52
+33                android:value="" />
+33-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:20:17-33
+34        </activity>
+35        <activity
+35-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:22:9-28:20
+36            android:name="com.yasmin.solace_application.SignupActivity"
+36-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:23:13-43
+37            android:exported="false" >
+37-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:24:13-37
+38            <meta-data
+38-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:18:13-20:36
+39                android:name="android.app.lib_name"
+39-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:19:17-52
+40                android:value="" />
+40-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:20:17-33
+41        </activity>
+42        <activity
+42-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:29:9-35:20
+43            android:name="com.yasmin.solace_application.ui.LoginActivity"
+43-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:30:13-45
+44            android:exported="false" >
+44-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:31:13-37
+45            <meta-data
+45-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:18:13-20:36
+46                android:name="android.app.lib_name"
+46-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:19:17-52
+47                android:value="" />
+47-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:20:17-33
+48        </activity>
+49        <activity
+49-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:36:9-42:20
+50            android:name="com.yasmin.solace_application.ui.OnboardingMeditation"
+50-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:37:13-52
+51            android:exported="false" >
+51-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:38:13-37
+52            <meta-data
+52-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:18:13-20:36
+53                android:name="android.app.lib_name"
+53-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:19:17-52
+54                android:value="" />
+54-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:20:17-33
+55        </activity>
+56        <activity
+56-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:43:9-49:20
+57            android:name="com.yasmin.solace_application.ui.OnboardingFriends"
+57-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:44:13-49
+58            android:exported="false" >
+58-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:45:13-37
+59            <meta-data
+59-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:18:13-20:36
+60                android:name="android.app.lib_name"
+60-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:19:17-52
+61                android:value="" />
+61-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:20:17-33
+62        </activity>
+63        <activity
+63-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:50:9-63:20
+64            android:name="com.yasmin.solace_application.ui.SplashActivity"
+64-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:51:13-46
+65            android:exported="true"
+65-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:52:13-36
+66            android:theme="@style/SplashTheme" >
+66-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:53:13-47
+67            <intent-filter>
+67-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:54:13-58:29
+68                <action android:name="android.intent.action.MAIN" />
+68-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:55:17-69
+68-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:55:25-66
+69
+70                <category android:name="android.intent.category.LAUNCHER" />
+70-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:57:17-77
+70-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:57:27-74
+71            </intent-filter>
+72
+73            <meta-data
+73-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:18:13-20:36
+74                android:name="android.app.lib_name"
+74-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:19:17-52
+75                android:value="" />
+75-->/home/student/AndroidStudioProjects/Solace/app/src/main/AndroidManifest.xml:20:17-33
+76        </activity>
+77
+78        <provider
+78-->[androidx.emoji2:emoji2:1.2.0] /home/student/.gradle/caches/transforms-3/848773e611bbde5d3ec0ec3e63d01c98/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+79            android:name="androidx.startup.InitializationProvider"
+79-->[androidx.emoji2:emoji2:1.2.0] /home/student/.gradle/caches/transforms-3/848773e611bbde5d3ec0ec3e63d01c98/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+80            android:authorities="com.yasmin.solace_application.androidx-startup"
+80-->[androidx.emoji2:emoji2:1.2.0] /home/student/.gradle/caches/transforms-3/848773e611bbde5d3ec0ec3e63d01c98/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+81            android:exported="false" >
+81-->[androidx.emoji2:emoji2:1.2.0] /home/student/.gradle/caches/transforms-3/848773e611bbde5d3ec0ec3e63d01c98/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+82            <meta-data
+82-->[androidx.emoji2:emoji2:1.2.0] /home/student/.gradle/caches/transforms-3/848773e611bbde5d3ec0ec3e63d01c98/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+83                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+83-->[androidx.emoji2:emoji2:1.2.0] /home/student/.gradle/caches/transforms-3/848773e611bbde5d3ec0ec3e63d01c98/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+84                android:value="androidx.startup" />
+84-->[androidx.emoji2:emoji2:1.2.0] /home/student/.gradle/caches/transforms-3/848773e611bbde5d3ec0ec3e63d01c98/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+85            <meta-data
+85-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/student/.gradle/caches/transforms-3/a4f0fb44e9b56370f8c2ed23c9d5d030/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+86                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+86-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/student/.gradle/caches/transforms-3/a4f0fb44e9b56370f8c2ed23c9d5d030/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+87                android:value="androidx.startup" />
+87-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/student/.gradle/caches/transforms-3/a4f0fb44e9b56370f8c2ed23c9d5d030/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+88        </provider>
+89    </application>
+90
+91</manifest>

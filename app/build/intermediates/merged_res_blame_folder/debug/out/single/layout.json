@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.yasmin.solace_application.app-mergeDebugResources-35:/layout/activity_onboarding_friends.xml",
+        "source": "com.yasmin.solace_application.app-main-38:/layout/activity_onboarding_friends.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-mergeDebugResources-35:/layout/activity_onboarding_meditation.xml",
+        "source": "com.yasmin.solace_application.app-main-38:/layout/activity_onboarding_meditation.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.yasmin.solace_application.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-mergeDebugResources-35:/layout/activity_login.xml",
+        "source": "com.yasmin.solace_application.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-mergeDebugResources-35:/layout/activity_sign_up.xml",
+        "source": "com.yasmin.solace_application.app-main-38:/layout/activity_sign_up.xml"
+    }
+]

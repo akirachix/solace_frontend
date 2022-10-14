@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/layout_activity_sign_up.xml.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_group1.png.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/group1.png"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_image1.png.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/image1.png"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_splash_bg.xml.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/splash_bg.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_meditation.png.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/meditation.png"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_group.png.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/group.png"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_vector.png.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/vector.png"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_image4.png.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/image4.png"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_image6.png.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/image6.png"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/layout_activity_login.xml.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_line.png.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/line.png"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_image.png.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/image.png"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_splash1.png.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/splash1.png"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/layout_activity_onboarding_meditation.xml.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/layout/activity_onboarding_meditation.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_splash.png.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/splash.png"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/xml_backup_rules.xml.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_image3.png.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/image3.png"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.yasmin.solace_application.app-pngs-31:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/drawable_image5.png.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/drawable/image5.png"
+    },
+    {
+        "merged": "com.yasmin.solace_application.app-merged_res-36:/layout_activity_onboarding_friends.xml.flat",
+        "source": "com.yasmin.solace_application.app-main-38:/layout/activity_onboarding_friends.xml"
+    }
+]

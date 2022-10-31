@@ -1,0 +1,84 @@
+
+.head{
+        text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 10px; 
+        margin-right: 40px;
+        font-weight: bolder;
+        font-size: 15px;
+        color: #2D3194;
+        
+}
+.words{
+    margin: auto;
+    height: 60vh;
+    text-align: center;
+    margin: auto;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: lighter;
+    font-size: 20px;
+    justify-content: space-evenly;
+  
+    /* background-image: url('https://health.clevelandclinic.org/wp-content/uploads/sites/3/2017/12/teenMeditate-1087277410-770x533-1.jpg'); */
+    background-image: url('https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2019/11/meditation-tips-for-beginners.jpg');
+}
+    
+.words h3{
+    /* align-items: center; */
+    padding: -15px;
+    height: 50vh;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 50%;
+    margin-right: -200px;
+    background-color: #D9D9D9;
+    margin: auto;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 400px;
+    opacity: 90%;
+    text-align: center;
+    font-weight: normal;
+    margin-bottom: -20%;
+}
+#h1{
+    margin-bottom: -40%;
+    padding: 8px;
+    height: 30vh;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-larger;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+#h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: normal;
+    margin-top: -10%;
+    /* padding-bottom: 30%; */
+    margin-left: 5%;
+}
+
+
+
+#med{
+    margin-top: -20%;
+    /* margin-left: -10%; */
+    /* padding-top: -40%; */
+    position: relative; left:145px;
+    display: flex;
+    margin-left: 635px;
+    
+}
+#h1{
+    display: block;
+    font-style: normal;
+} 
+#h3{
+    display: block;
+    font-style: normal;
+} 
+

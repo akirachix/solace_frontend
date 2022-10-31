@@ -1,0 +1,49 @@
+.bottompart{
+    background-color: #2D3194;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    margin-top: 57%;
+
+}
+.copyright{
+    color: white;
+    text-align: center;
+    padding: 3%;
+    font-weight: lighter;
+    font-size: 20px;
+}
+#privacy{
+    position: absolute;
+    text-align: justify;
+    display: flex;
+    margin-top: 0.2%;
+}
+#your{
+    position: absolute;
+    margin-left: 0%;
+    font-weight: normal;
+    margin-top: 4%;
+}
+#contact{
+    display: inline-flexbox;
+    text-align: center;
+    /* margin-left: 70%; */
+    margin-top: -6%;
+}
+#add{
+    display: inline-flexbox;
+    text-align: center;
+    /* margin-left: -10%; */
+    margin-top: 2%;  
+}
+#email{
+    margin-left: 80%;
+    margin-top: -6.5%;
+    font-weight: normal;
+
+}
+#location{
+    margin-left: 80%;
+    margin-top: 1.5%;
+    font-weight: normal;
+}

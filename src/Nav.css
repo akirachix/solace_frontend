@@ -1,0 +1,36 @@
+
+.Nav body{
+  background-color: #DAE6FF;
+ } 
+ 
+ .Nav{
+  display: flex;
+  border-radius: 5px;
+  background-color: #fff;
+  height: 20vh;
+  margin: auto;
+  
+ }
+ 
+ ul, li, a{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #2D3194;
+  text-decoration: none;
+  display: flex;
+padding:10px 30px;
+  font-size: 30px;
+  font-weight: 500;
+  align-items: center;
+  cursor: pointer;
+  
+}
+ 
+a:hover{
+ border-bottom: 3px solid #00ADEF;
+}
+.Display img{
+  margin-bottom: 55px;
+  margin-left: 100px;
+
+}
+

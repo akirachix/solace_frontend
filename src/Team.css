@@ -1,0 +1,84 @@
+.Team{
+    font-weight: bolder;
+    text-align: center;
+}
+.Profile{
+    display: flex;
+    width: auto;
+    justify-content: space-evenly;
+    
+}
+#pics7{
+    position: absolute;
+    display: block;
+    margin-left: -31%;
+}
+#Prudence{
+    position: absolute;
+    font-weight: lighter;
+    font-size: medium;
+    margin-left: 12%;
+    margin-top: 19%;
+}
+span{
+    color: #00ADEF;
+}
+#pics8{
+    position: absolute;
+    display:flexbox;
+    margin-left: 1%;
+    float: bottom;
+    padding: -38%;
+    align-items: flex-end;
+
+}
+#Yasmin{
+    position: absolute;
+    font-weight: lighter;
+    font-size: medium;
+    margin-left:45%;
+    margin-top: 19%;
+}
+span{
+    color: #00ADEF;
+}
+#pics9{
+    position: absolute;
+    align-items: center;
+    margin-left: 30%;
+}
+
+#Nancy{
+    position: absolute;
+    font-weight: lighter;
+    font-size: medium;
+   margin-left: 76%;
+    margin-top: 19%;
+}
+#pics10{
+    position: absolute;
+    margin-left: -25%;
+    margin-top: 25%;
+}
+
+#Wanda{
+    position: absolute;
+    font-weight: lighter;
+    font-size: medium;
+    margin-left: 29%;
+    margin-top: 45%;
+}
+#pics11{
+    position: absolute;
+    margin-left: 9%;
+    margin-top: 25%;
+}
+#Jane{
+    position: absolute;
+    font-weight: lighter;
+    font-size: medium;
+    margin-left: 64%;
+    margin-top: 45%;
+}
+
+

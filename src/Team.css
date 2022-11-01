@@ -1,6 +1,8 @@
 .Team{
     font-weight: bolder;
     text-align: center;
+    margin-top: -7%;
+    background-color: white;
 }
 .Profile{
     display: flex;
@@ -15,9 +17,9 @@
 }
 #Prudence{
     position: absolute;
-    font-weight: lighter;
-    font-size: medium;
-    margin-left: 12%;
+    font-weight: normal;
+    font-size: 18px;
+    margin-left: 11%;
     margin-top: 19%;
 }
 span{
@@ -34,8 +36,8 @@ span{
 }
 #Yasmin{
     position: absolute;
-    font-weight: lighter;
-    font-size: medium;
+    font-weight: normal;
+    font-size: 18px;
     margin-left:45%;
     margin-top: 19%;
 }
@@ -50,35 +52,43 @@ span{
 
 #Nancy{
     position: absolute;
-    font-weight: lighter;
-    font-size: medium;
+    font-weight: normal;
+    font-size: 18px;
    margin-left: 76%;
     margin-top: 19%;
 }
 #pics10{
     position: absolute;
     margin-left: -25%;
-    margin-top: 25%;
+    margin-top: 23%;
 }
 
 #Wanda{
     position: absolute;
-    font-weight: lighter;
-    font-size: medium;
-    margin-left: 29%;
-    margin-top: 45%;
+    font-weight: normal;
+    font-size: 18px;
+    margin-left: 28%;
+    margin-top: 42%;
 }
 #pics11{
     position: absolute;
     margin-left: 9%;
-    margin-top: 25%;
+    margin-top: 23%;
 }
 #Jane{
     position: absolute;
-    font-weight: lighter;
-    font-size: medium;
-    margin-left: 64%;
-    margin-top: 45%;
+    font-weight: normal;
+    font-size: 18px;
+    margin-left: 63%;
+    margin-top: 42%;
+}
+
+@media only screen and (min-width: 768px) {}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
 }
 
 

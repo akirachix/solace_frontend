@@ -7,41 +7,31 @@
         font-weight: bolder;
         font-size: 15px;
         color: #2D3194;
+        margin-top: 15%;
+        background-color: white;
+       
         
 }
-.words{
-    margin: auto;
-    height: 60vh;
-    text-align: center;
-    margin: auto;
-    text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-repeat: no-repeat;
+.info{
+    height: 60vh; 
     background-size: cover;
-    font-weight: lighter;
     font-size: 20px;
-    justify-content: space-evenly;
-  
-    /* background-image: url('https://health.clevelandclinic.org/wp-content/uploads/sites/3/2017/12/teenMeditate-1087277410-770x533-1.jpg'); */
-    background-image: url('https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2019/11/meditation-tips-for-beginners.jpg');
+    color: rgb(6, 7, 7);
+    background-image: url('https://health.clevelandclinic.org/wp-content/uploads/sites/3/2017/12/teenMeditate-1087277410-770x533-1.jpg');
 }
     
-.words h3{
-    /* align-items: center; */
-    padding: -15px;
-    height: 50vh;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    width: 50%;
-    margin-right: -200px;
-    background-color: #D9D9D9;
-    margin: auto;
+.info h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 45vh;
+    box-shadow: 0 5px 9px 0 rgba(29, 7, 224, 0.2);
+    width: 60%;
+    background-color: #00ADEF;
     position: absolute;
-    margin-top: 60px;
-    margin-left: 400px;
+    margin-top: 50px;
+    margin-left: 250px;
     opacity: 90%;
-    text-align: center;
-    font-weight: normal;
-    margin-bottom: -20%;
+    font-weight:400;
+
 }
 #h1{
     margin-bottom: -40%;
@@ -58,7 +48,6 @@
     font-size: 25px;
     font-weight: normal;
     margin-top: -10%;
-    /* padding-bottom: 30%; */
     margin-left: 5%;
 }
 
@@ -66,8 +55,6 @@
 
 #med{
     margin-top: -20%;
-    /* margin-left: -10%; */
-    /* padding-top: -40%; */
     position: relative; left:145px;
     display: flex;
     margin-left: 635px;
@@ -82,3 +69,10 @@
     font-style: normal;
 } 
 
+@media only screen and (min-width: 768px) {}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+}

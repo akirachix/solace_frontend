@@ -46,9 +46,6 @@ return (
     </ul>
     </div> 
     </div>
-
-    
-
 );
 }
 

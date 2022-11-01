@@ -1,6 +1,6 @@
-import React from "react";
-import './App.css';
-import './Footer.css';
+import React, { useState } from 'react';
+// import './App.css';
+import '../styles/Footer.css';
 
 function Footer() {
     return (

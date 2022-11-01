@@ -1,9 +1,25 @@
-import React from "react";
-import './App.css';
-import './Home.css';
-import pic from "./images/sol.png";
+import React, { useState } from 'react';
+import '../styles/Home.css';
+
+import '../styles/Home.css';
+import pic from "../images/sol.png";
 
 function Home() {
+  const [MenuOpen,setMenuOpen]=useState(false)
+  const [my_right,set_right] = useState('-100%')
+  let styles = {
+    right: my_right
+
+  };
+  const open_ = ()=>{
+    setMenuOpen(!MenuOpen)
+    set_right("0")
+}
+const close_ = ()=>{
+  setMenuOpen(!MenuOpen)
+  set_right("-100%")
+
+}
     return (
       <div className="App">
              <div className="Title">

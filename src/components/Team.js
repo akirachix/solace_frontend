@@ -1,11 +1,12 @@
-import React from "react";
-import './App.css';
-import pics7 from "./images/Prudence.png";
-import pics8 from "./images/Yasmin.png";
-import pics9 from "./images/Nancy.png";
-import pics10 from "./images/Wanda.png";
-import pics11 from "./images/Jane.png";
-import './Team.css'
+import React, { useState } from 'react';
+import '../styles/Nav.css';
+
+import pics7 from "../images/Prudence.png";
+import pics8 from "../images/Yasmin.png";
+import pics9 from "../images/Nancy.png";
+import pics10 from "../images/Wanda.png";
+import pics11 from "../images/Jane.png";
+import '../styles/Team.css'
 
 
 function Team() {

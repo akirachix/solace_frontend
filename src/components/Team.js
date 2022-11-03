@@ -1,12 +1,10 @@
-import React, { useState } from 'react';
-import '../styles/Nav.css';
-
+import React from 'react';
 import pics7 from "../images/Prudence.png";
 import pics8 from "../images/Yasmin.png";
 import pics9 from "../images/Nancy.png";
 import pics10 from "../images/Wanda.png";
 import pics11 from "../images/Jane.png";
-import '../styles/Team.css'
+import '../styles/Team.css';
 
 
 function Team() {
@@ -17,9 +15,9 @@ function Team() {
         </div>
   
         <div className="Profile"> 
-       <img id='pics7' src={pics7}alt=".pics7" /> 
+       <img id='pics7' src={pics7} alt='pics7' />
        <img id='pics8' src={pics8} alt="pics8" />
-       <img id='pics9' src={pics9}alt="pics9" /> 
+       <img id='pics9' src={pics9} alt="pics9" /> 
         </div>
         <div className="Members">  
        <img id='pics10' src={pics10}alt="pics10" /> 

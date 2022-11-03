@@ -4,6 +4,7 @@ import pic from "../images/SolaceLogo.png";
 import MenuIcon from '@mui/icons-material/Menu';
 import MenuOpenIcon from '@mui/icons-material/MenuOpen';
 
+
 function Nav() {
   const [MenuOpen,setMenuOpen]=useState(false)
   const [my_right,set_right] = useState('-100%')
@@ -31,20 +32,7 @@ return (
       <li ><a href='#about' >About</a></li>
       <li> <a href='#team' >Team</a></li>
     </ul>
-    <div className='hamberger'>
-      {MenuOpen ? <MenuOpenIcon onClick={open_}/>:<MenuIcon onClick={close_}/>}
    
-
-    </div>
-
-     <div className='mobileNav' style={styles}>
-      
-    <ul className='mobile-menu'>
-    <li ><a href='#home' >Home</a></li>
-      <li ><a href='#about' >About</a></li>
-      <li> <a href='#team' >Team</a></li>
-    </ul>
-    </div> 
     </div>
 );
 }

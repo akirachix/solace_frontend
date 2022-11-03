@@ -1,70 +1,93 @@
 
-.head{
+.body{
+    background-color: white;
+}
+
+.head h1{
         text-align: center;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        font-size: 10px; 
-        margin-right: 40px;
-        font-weight: bolder;
-        font-size: 15px;
-        color: #2D3194;
+        margin-right: -43px;
+        font-weight: bold;
+        font-size: 30px;
         margin-top: 15%;
+        margin-left: -6%;
         background-color: white;
+        padding: 1%;
+        /* align-items: center; */
        
-        
 }
 .info{
-    height: 60vh; 
+    background-color: white;
+    height: 30vh; 
+    display: inline;
     background-size: cover;
+    align-items: center;
+    width: -1900vw;
+    height: 600px;
     font-size: 20px;
     color: rgb(6, 7, 7);
-    background-image: url('https://health.clevelandclinic.org/wp-content/uploads/sites/3/2017/12/teenMeditate-1087277410-770x533-1.jpg');
+    /* background-image: url('https://health.clevelandclinic.org/wp-content/uploads/sites/3/2017/12/teenMeditate-1087277410-770x533-1.jpg'); */
 }
     
 .info h3{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    height: 45vh;
-    box-shadow: 0 5px 9px 0 rgba(29, 7, 224, 0.2);
-    width: 60%;
-    background-color: #00ADEF;
-    position: absolute;
-    margin-top: 50px;
-    margin-left: 250px;
-    opacity: 90%;
-    font-weight:400;
-
+    height: 50vh;
+    align-items: center;
+    box-shadow: 0 10px 10px 0 rgba(29, 7, 224, 0.2);
+    width: -60%;
+    background-color: #ffffff;
+    /* position: absolute; */
+    margin-top: -560px;
+    /* margin-bottom: 30%; */
+    margin-left: 200px;
+    margin-right: 18%;
+    opacity: 85%;
+    font-weight:normal;
+    font-size: 25px;
+    padding: 80px;
+    /* display: inline; */
 }
-#h1{
+/* .details{
+    margin-bottom: -20%;
+} */
+.steps h1{
+    background-color: #DAE6FF;
     margin-bottom: -40%;
     padding: 8px;
     height: 30vh;
     margin: auto;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: x-larger;
+    font-size: 30px;
     margin-left: 5%;
-    margin-top: 5%;
+    margin-bottom: 10%;
+  
+}
+#app{
+    margin-top: 19%;
 }
 #h3{
+    background-color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25px;
     font-weight: normal;
-    margin-top: -10%;
+    margin-top: -22%;
     margin-left: 5%;
 }
 
-
-
 #med{
-    margin-top: -20%;
+    height: 90%;
+    margin-top: -15%;
     position: relative; left:145px;
     display: flex;
-    margin-left: 635px;
-    
+    margin-left: 800px;  
 }
 #h1{
+    background-color: white;
     display: block;
     font-style: normal;
 } 
 #h3{
+    background-color: #DAE6FF;
     display: block;
     font-style: normal;
 } 
